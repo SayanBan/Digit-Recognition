@@ -1,1 +1,1 @@
-# Digit-Recognition
+# KNN-MNIST-Digit-Recognition-System
